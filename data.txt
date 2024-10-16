@@ -1,0 +1,12 @@
+Get ready for this Thursday’s 1-Up Workshop because we’re diving into a game-changing skill: Markdown! :pestañas_de_marcadores::mano_escribiendo: If you’ve been looking to upgrade your note-taking, streamline your documentation, or just flex some new coding skills, this one’s for YOU.
+Markdown is the Swiss Army knife for coders, writers, and organizers. Whether you're taking class notes, writing up project docs, or creating API documentation, Markdown makes it all super clean and easy to read. :manos_levantadas:
+Here's what you can expect:
+Learn the basics of Markdown syntax (emphasis, links, lists, and more!)
+Get into advanced features like tables, code blocks, and formatting tricks :fuego:
+A deep dive into using Markdown for API documentation :nota:
+Plus, we’ve got plenty of examples, cheat sheets, and real-world tips to help you level up your skills. :libros:
+:calendario_de_sobremesa: When: This Thursday, October 10th
+:reloj_de_alarma: Time: 5 PM CST (6 PM EST)
+:tecnóloga: Where: coding-workshops
+Bring your energy, your curiosity, and your favorite Markdown editor (VSCode or any online Markdown tool works). Let’s make your notes and documentation next-level!
+Stay tuned for more details! :videojuego: #LevelUpWithMarkdown
